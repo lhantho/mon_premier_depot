@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mon CV</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<h1>Anthony Lhermitte</h1>
+
+    <ul class = "info">
+          <li>Né le 21/01/1994</li>
+          <li>2 rue de Koufra</li>
+          <li>62160 Bully Les Mines</li>
+          <li>Tél: 06/98/51/78/76</li>
+          <li>Mail: lhermitte.anthony@hotmail.com</li>
+    </ul>
+
+
+        <h2>Expériences professionnelles</h2>
+
+  <div>
+
+      <div>
+        <p>2014</p>
+                        <ul>
+                                <li>Agent exécution graphisme</li>
+                                <li>Employé Libre-service</li>
+                                <li>Sérigraphe</li>
+                        </ul>
+   </div>
+</div>
+
+  <div>
+      <div>
+        <p>2013/2012</p>
+                        <ul>
+                                <li>Chaudronnier industriel</li>
+                                <li>Plombier</li>
+                        </ul>
+
+   </div>
+</div>
+
+
+  <div>
+      <div>
+        <p>2011</p>
+                        <ul>
+                                <li>Armature</li>
+                        </ul>
+   </div>
+</div>
+
+        <h3>Formation</h3>
+
+<p>2016-1017: Formation popschool développeurs/web à Lens</p>
+
+<p>2014:  Formation insertion jeunes  Instep/Liévin</p>
+
+<p>2010-2013:  Niveau Bac Pro en Chaudronnerie Industriel  Henry Darras/Liévin</p>
+
+
+
+
+
+        <h4>Information complémentaires</h4>
+
+<p>loisirs: Musique, informatique, sport,cinéma</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Select</title>
+  </head>
+  <body>
+
+        <form action="" method="post" enctype="multipart/form-data">
+
+
+
+<div>
+        <input type="text" name="texte" value="" placeholder="texte"/>
+
+</div>
+
+<div>
+        <textarea name="texte" placeholder="votre texte"></textarea>
+</div>
+
+<div>
+        <select name=catégorie required="">
+        <option value="">Choisissez une catégorie</option>
+        <option value="actus">Actus</option>
+        <option value="archives">Achivres</option>
+        <option value="autre">Autre</option>
+</select>
+</div>
+
+<div>
+        <button>Envoyer</button>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</form>
+  </body>
+</html>

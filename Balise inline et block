@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Balise inline et block</title>
+</head>
+  <body>
+
+   <div>
+        <span>Antho<span>
+   </div>
+
+   <div>
+        <strong>Antho</strong>
+   </div>
+
+   <div>
+        <em>Antho</em>
+   </div>
+
+<div>
+<a href="http://google.com">Google</a>
+</div>
+
+<img src="file:///home/anthony/Documents/novembre%202016%20(semaine%20du%2021%20au%2025)/code/medias/0a_b9g-rm6w-austin-neill-160x106.jpg" alt=""/>
+<br/>
+
+
+<div>Antho</div>
+<p>Antho<p>
+<h1>Antho<h1>
+<hr />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

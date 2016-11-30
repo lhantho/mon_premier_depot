@@ -1,0 +1,40 @@
+body {
+       background-image: url("http://laban.rs/img/bgi/el_bg_img_5.jpg");
+
+
+}
+
+
+
+.info {
+        font-style: italic;
+
+
+}
+
+h2 {
+        font-size: 20px;
+        text-transform: uppercase;
+        border-bottom: 3px solid;
+
+}
+
+
+
+h3 {
+        font-size: 20px;
+        text-transform: uppercase;
+        border-bottom: 3px solid;
+
+}
+
+
+
+h4 {
+        font-size: 20px;
+        text-transform: uppercase;
+        border-bottom: 3px solid;
+
+
+
+}
